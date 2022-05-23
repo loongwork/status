@@ -2,13 +2,13 @@ owner: loongwork
 repo: status
 
 sites:
-  - name: Official Website
+  - name: 官网
     url: https://www.loongwork.net
-  - name: Minecraft Main Server
+  - name: 我的世界主服务器
     check: "tcp-ping"
     url: $MC_MAIN_URL
     port: $MC_MAIN_PORT
-  - name: Minecraft Proxy Server
+  - name: 我的世界代理服务器
     check: "tcp-ping"
     url: $MC_PROXY_URL
     port: $MC_PROXY_PORT
