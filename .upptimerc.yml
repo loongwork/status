@@ -15,8 +15,8 @@ sites:
 
 status-website:
   cname: status.loongwork.net
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: LoongWork Status
+  logoUrl: https://cdn.loongwork.net/front/logo.png
+  name: LoongWork Services Status
   navbar:
     - title: Status
       href: /
