@@ -27,7 +27,6 @@ status-website:
 
 i18n:
   activeIncidents: 活动事件
-  allSystemsOperational: 所有系统工作正常
   incidentReport: "$NUMBER 号事件报告 →"
   activeIncidentSummary: 于 $DATE 打开，包括 $POSTS 个帖子
   incidentTitle: $NUMBER 号事件详情
@@ -49,9 +48,6 @@ i18n:
   averageResponseTimeTitle: 平均响应时间
   sevelDayResponseTime: 七天响应时间
   responseTimeMs: 响应时间 (ms)
-  up: 正常
-  down: 离线
-  degraded: 受限
   ms: ms
   loading: 加载中
   navGitHub: GitHub
@@ -82,3 +78,16 @@ i18n:
   durationMin: $DURATION 分钟
   incidentCompleted: 已完成
   incidentScheduled: 已排期
+  url: "地址"
+  status: "状态"
+  history: "历史"
+  responseTime: "响应时间"
+  uptime: "正常运行时间"
+  up: "🟩 正常"
+  degraded: "🟨 受限"
+  down: "🟥 离线"
+  responseTimeGraphAlt: "响应时间图表"
+  allSystemsOperational: "🟩 所有系统工作正常"
+  degradedPerformance: "🟨 部分功能受限"
+  completeOutage: "🟥 所有系统离线"
+  partialOutage: "🟧 部分系统不可用"
