@@ -1,7 +1,7 @@
 url: $MC_PROXY_URL
-status: up
-code: 200
+status: down
+code: 0
 responseTime: 0
-lastUpdated: 2022-05-23T23:17:57.719Z
+lastUpdated: 2022-05-24T22:58:54.365Z
 startTime: Mon May 23 2022 09:37:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
