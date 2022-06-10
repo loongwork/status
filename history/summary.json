@@ -22,19 +22,19 @@
     "url": "$MC_MAIN_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "minecraft-main-server",
-    "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "98.57%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
+    "status": "down",
+    "uptime": "99.77%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
     "time": 636,
     "timeDay": 1009,
     "timeWeek": 754,
     "timeMonth": 636,
     "timeYear": 636,
     "dailyMinutesDown": {
-      "2022-06-10": 21,
+      "2022-06-10": 22,
       "2022-05-31": 19,
       "2022-05-24": 21
     }
@@ -44,7 +44,7 @@
     "url": "$MC_PROXY_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "minecraft-proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
@@ -56,6 +56,7 @@
     "timeMonth": 214,
     "timeYear": 214,
     "dailyMinutesDown": {
+      "2022-06-10": 0,
       "2022-06-09": 16,
       "2022-05-31": 17,
       "2022-05-24": 19
