@@ -45,7 +45,7 @@
     "url": "$MC_PROXY_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "minecraft-proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "98.42%",
     "uptimeDay": "63.46%",
     "uptimeWeek": "94.78%",
