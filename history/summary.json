@@ -4,19 +4,19 @@
     "url": "https://www.loongwork.net",
     "icon": "https://favicons.githubusercontent.com/www.loongwork.net",
     "slug": "official-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 228,
-    "timeDay": 334,
-    "timeWeek": 211,
-    "timeMonth": 250,
-    "timeYear": 228,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 230,
+    "timeDay": 359,
+    "timeWeek": 233,
+    "timeMonth": 254,
+    "timeYear": 230,
     "dailyMinutesDown": {
-      "2022-08-26": 0
+      "2022-08-26": 21
     }
   },
   {
